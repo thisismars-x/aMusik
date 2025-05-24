@@ -1,0 +1,12 @@
+$$$$$$$$
+i needed a simple cli music player
+$$$$$$$$
+
+Use, any linux machine(used on Debian only)
+Run, cargo install --path 
+put all your music under $HOME/Music/
+amusik to launch 
+
+$$$$$$$$
+to exit, <Ctrl> <c> 
+$$$$$$$$
